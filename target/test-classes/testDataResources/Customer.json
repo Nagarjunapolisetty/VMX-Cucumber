@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Nagarjuna",
+    "lastName": "Polisetty",
+    "address": {
+      "line1": "55 broad street",
+      "city": "New York",
+      "postCode": "10020",
+      "state": "New York"
+    },
+    "emailAddress": "aj@gmail.com",
+    "phoneNumber": "012345678"
+  },
+  {
+    "firstName": "Virender",
+    "lastName": "Singh",
+    "address": {
+      "line1": "55 broad street",
+      "city": "New York",
+      "postCode": "10020",
+      "state": "New York"
+    },
+    "emailAddress": "aj@gmail.com",
+    "phoneNumber": "012345678"
+  }
+]
